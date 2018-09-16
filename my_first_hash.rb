@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {"Kyrie Irving" => 11, "Jaylen Brown => 7", "Al Horford" => 42}
+  my_hash = {"Kyrie Irving" => 11, "Jaylen Brown" => 7, "Al Horford" => 42}
   
 end
 
